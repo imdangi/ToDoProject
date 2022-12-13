@@ -28,7 +28,7 @@
 10. File Handling
 
 <H2>Project Details</H2>
-<b>This is a gui based project in which only 6 things can be performed:-</b><br>
+<b>This is not a gui based project,it is a console based project in which only 6 things can be performed:-</b><br>
   1. ADD Task<br>
   2. Delete Task<br>
   3. Search Task<br>
