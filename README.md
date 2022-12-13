@@ -1,12 +1,12 @@
 # ToDoProject
 
-This is a gui based project in which only 6 things can be performed
-  <b>ADD Task
-  <b>Delete Task
-  <b>Search Task
-  <b>Update Task
-  <b>Print Task
-  <b>Update Task Status
+This is a gui based project in which only 6 things can be performed:-<br>
+  <b>ADD Task<br>
+  <b>Delete Task<br>
+  <b>Search Task<br>
+  <b>Update Task<br>
+  <b>Print Task<br>
+  <b>Update Task Status<br>
 All the date is stored locally using ObjectOutputStream
 
 Each task has 4 properties 
